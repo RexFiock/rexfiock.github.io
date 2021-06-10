@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rexfiock.github.io</id>
     <title>Rex Fiock</title>
-    <updated>2021-06-10T10:53:40.791Z</updated>
+    <updated>2021-06-10T11:12:50.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rexfiock.github.io"/>
     <link rel="self" href="https://rexfiock.github.io/atom.xml"/>
@@ -11,16 +11,10 @@
     <icon>https://rexfiock.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Rex Fiock</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://rexfiock.github.io/post/hello-gridea/</id>
-        <link href="https://rexfiock.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[记录一些音游曲/类音游曲/其它同人音乐的BPM]]></title>
+        <id>https://rexfiock.github.io/post/ji-lu-yi-xie-yin-you-qu-lei-yin-you-qu-qi-ta-tong-ren-yin-le-de-bpm/</id>
+        <link href="https://rexfiock.github.io/post/ji-lu-yi-xie-yin-you-qu-lei-yin-you-qu-qi-ta-tong-ren-yin-le-de-bpm/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></content>
+        <updated>2021-06-10T10:56:38.000Z</updated>
     </entry>
 </feed>
