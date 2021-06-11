@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rexfiock.github.io</id>
     <title>Rex Fiock</title>
-    <updated>2021-06-11T14:01:55.201Z</updated>
+    <updated>2021-06-11T15:04:23.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rexfiock.github.io"/>
     <link rel="self" href="https://rexfiock.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2021, Rex Fiock</rights>
     <entry>
         <title type="html"><![CDATA[记录一些音游曲/类音游曲/其它同人音乐的BPM]]></title>
-        <id>https://rexfiock.github.io/post/ji-lu-yi-xie-yin-you-qu-lei-yin-you-qu-qi-ta-tong-ren-yin-le-de-bpm/</id>
-        <link href="https://rexfiock.github.io/post/ji-lu-yi-xie-yin-you-qu-lei-yin-you-qu-qi-ta-tong-ren-yin-le-de-bpm/">
+        <id>https://rexfiock.github.io/post/mugsongsbpm/</id>
+        <link href="https://rexfiock.github.io/post/mugsongsbpm/">
         </link>
         <updated>2021-06-10T10:56:38.000Z</updated>
     </entry>
